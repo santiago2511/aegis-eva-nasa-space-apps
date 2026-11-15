@@ -1,0 +1,32 @@
+[
+  {
+    "flrID": "2026-11-15-FLR-001",
+    "instruments": [
+      {
+        "displayName": "GOES-16: EXIS-XRS"
+      }
+    ],
+    "beginTime": "2026-11-15T10:05:06Z",
+    "peakTime": "2026-11-15T10:20:06Z",
+    "endTime": "2026-11-15T10:55:06Z",
+    "classType": "M2.8",
+    "sourceLocation": "N14E22",
+    "activeRegionNum": 13664,
+    "note": "Contingency baseline: Active Region coronal mass ejection precursor."
+  },
+  {
+    "flrID": "2026-11-15-FLR-002",
+    "instruments": [
+      {
+        "displayName": "GOES-16: EXIS-XRS"
+      }
+    ],
+    "beginTime": "2026-11-15T14:05:06Z",
+    "peakTime": "2026-11-15T14:15:06Z",
+    "endTime": "2026-11-15T14:50:06Z",
+    "classType": "X1.4",
+    "sourceLocation": "S18W35",
+    "activeRegionNum": 13667,
+    "note": "Contingency baseline: Strong X-class impulsive solar energetic proton surge."
+  }
+]
